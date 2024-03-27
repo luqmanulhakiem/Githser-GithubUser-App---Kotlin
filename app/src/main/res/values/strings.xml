@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Githser</string>
+    <string name="Screen1">Githser</string>
+    <string name="fav">Favorite</string>
+    <string name="menu1">Profile Menu</string>
+    <string name="hint">Username</string>
+    <string name="username">Username User</string>
+    <string name="name">Name user</string>
+    <string name="imageDesc">Gambar User</string>
+    <string name="tab_text_1">Follower (%1$d)</string>
+    <string name="tab_text_2">Following (%1$d)</string>
+    <string name="ic_fav">icon fav\n</string>
+    <string name="textKosong">Belum ada Favorite Silahkan tambahkan terlebih dahulu</string>
+    <string name="menu2">menu setting</string>
+    <string name="nightMode">Night Mode</string>
+</resources>

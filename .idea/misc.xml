@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="EntryPointsManager">
+    <entry_points version="2.0">
+      <entry_point TYPE="method" FQNAME="com.dicoding.githser.ui.FollowListViewModel$-1 void onResponse(retrofit2.Call&lt;java.util.List&lt;com.dicoding.githser.data.response.GithubFollowListResponseItem&gt;&gt; call, retrofit2.Response&lt;java.util.List&lt;com.dicoding.githser.data.response.GithubFollowListResponseItem&gt;&gt; response)" />
+      <entry_point TYPE="method" FQNAME="com.dicoding.githser.ui.FollowListViewModel$-1 void onFailure(retrofit2.Call&lt;java.util.List&lt;com.dicoding.githser.data.response.GithubFollowListResponseItem&gt;&gt; call, java.lang.Throwable t)" />
+    </entry_points>
+    <pattern value="com.dicoding.githser.ui.FollowListViewModel" method="getFollower" />
+    <pattern value="com.dicoding.githser.ui.FollowListViewModel" method="getFollowing" />
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
